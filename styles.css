@@ -1,0 +1,29 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,100,300,500,700);
+
+body {
+  background: #EEEEF4;
+  color:#999;
+  font-family:Roboto;
+}
+
+h1{
+  font-weight:200;
+  font-size:32pt;
+  color:rgb(51, 132, 238);
+}
+
+p{font-weight:300;
+    font-size: 16pt;
+    color:#666565
+}
+
+.warning-content {
+    position:absolute;
+  top:25%;
+  width:100%;
+  height:300px;
+  text-align:center;
+  margin:0;
+  
+  
+}
